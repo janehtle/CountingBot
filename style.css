@@ -1,5 +1,11 @@
+body {
+    margin: 100px;
+    padding: 100px;
+}
+
 #countLabel {
-    display: block;
+    display: flex;
+    justify-content: center;
     font-size: 160px;
     text-align: center;
     font-family: Helvetica;
