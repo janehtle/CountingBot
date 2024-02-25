@@ -28,7 +28,18 @@ body {
     transition: background-color 0.25s;
 }
 
+.submitBtn {
+    cursor: pointer;
+}
+
 .buttons:hover {
     background-color: rgb(186, 79, 114);
 }
 
+#increaseBtn {
+    margin-right: 10px;
+}
+
+#decreaseBtn {
+    margin-left: 10px;
+}
